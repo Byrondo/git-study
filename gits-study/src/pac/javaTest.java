@@ -6,5 +6,6 @@ public class javaTest {
 		System.out.println("");
 
 		System.out.println("2");
+		System.out.println("adfasd");
 	}
 }
