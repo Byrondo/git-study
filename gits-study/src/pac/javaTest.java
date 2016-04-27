@@ -1,6 +1,6 @@
+package pac;
 
-
-public class gitTest {
+public class javaTest {
 	public void main(String [] a){
 		System.out.println("ggqq111");
 		System.out.println("");
